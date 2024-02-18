@@ -1,2 +1,3 @@
 # DataEngineering
-This repo is for dat engineering
+This repo is for data engineering projects.
+Author-Insha Fatma
